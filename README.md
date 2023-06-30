@@ -5,6 +5,8 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 - 💬 Ask me about JS/TS, Docker, Linux, Node.js
 - 🧑‍💻 Basically this is my beloved stack:
   - :elephant: PostgreSQL, :seedling: MongoDB
+  - Laravel
+  - Fastify, NextJS
   - NestJS, ReactJS
   - :snake: JavaScript, Typescript
   - 🐳 Docker
