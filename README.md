@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - NestJS, ReactJS
   - :snake: JavaScript, Typescript
   - 🐳 Docker
-  - Linux
+  - 🐧 Linux
 - 📫 How to reach me:
   - LinkedIn [Sophonie Bouye](https://www.linkedin.com/in/sophoniebouye/)
   - Twitter [@sophoniebouye](https://twitter.com/sophoniebouye)
