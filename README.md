@@ -12,5 +12,5 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
   - 🐳 Docker
   - 🐧 Linux
 - 📫 How to reach me:
-  - LinkedIn [Sophonie Bouye](https://www.linkedin.com/in/sophoniebouye/)
-  - Twitter [@sophoniebouye](https://twitter.com/sophoniebouye)
+  - LinkedIn [Eliphaz Bouye](https://www.linkedin.com/in/eliphaz/)
+  - Twitter [@eliphazbouye](https://twitter.com/eliphazbouye)
